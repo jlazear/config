@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/jl/.config/nvim/after/plugin'
+let g:netrw_dirhist_8='/home/jl/.config/nvim/after'
+let g:netrw_dirhist_7='/home/jl/.config/nvim'
+let g:netrw_dirhist_6='/home/jl/.config/nvim/lua'
+let g:netrw_dirhist_5='/home/jl/.config/nvim/lua/jlazear'
+let g:netrw_dirhist_4='/home/jl/.config/nvim/after/plugin'
+let g:netrw_dirhist_3='/home/jl/.config/nvim/after'
+let g:netrw_dirhist_2='/home/jl/.config/nvim'
+let g:netrw_dirhist_1='/home/jl/.config/nvim/lua'
+let g:netrw_dirhist_0='/home/jl/.config/nvim/lua/jlazear'
