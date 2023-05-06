@@ -1,1 +1,0 @@
-{"metrics":{"start_time":1683271789823,"completion_time":1683271796802},"secondary_sources":[],"name":"dockerfile-language-server","primary_source":{"type":"npm","package":"dockerfile-language-server-nodejs"},"links":{"bin":{"docker-langserver":"node_modules\/.bin\/docker-langserver"},"share":{}},"schema_version":"1.1"}
