@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1683271786979,"completion_time":1683271793794},"secondary_sources":[],"name":"docker-compose-language-service","primary_source":{"type":"npm","package":"@microsoft\/compose-language-service"},"links":{"bin":{"docker-compose-langserver":"node_modules\/.bin\/docker-compose-langserver"},"share":{}},"schema_version":"1.1"}

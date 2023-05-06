@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1683271732168,"completion_time":1683271737069},"secondary_sources":[],"name":"ansible-language-server","primary_source":{"type":"npm","package":"@ansible\/ansible-language-server"},"links":{"bin":{"ansible-language-server":"node_modules\/.bin\/ansible-language-server"},"share":{}},"schema_version":"1.1"}

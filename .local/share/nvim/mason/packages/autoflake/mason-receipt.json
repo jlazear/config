@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1683271738746,"completion_time":1683271749886},"secondary_sources":[],"name":"autoflake","primary_source":{"type":"pip3","package":"autoflake"},"links":{"bin":{"autoflake":"venv\/bin\/autoflake"},"share":{}},"schema_version":"1.1"}
